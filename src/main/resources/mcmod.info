@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modid}",
+  "name": "${name}",
+  "description": "Automate the boring stuff!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["initsuj"],
+  "credits": "All those wonderful people out there.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
