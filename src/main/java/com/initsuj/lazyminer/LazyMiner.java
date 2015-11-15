@@ -14,7 +14,7 @@ public class LazyMiner {
 
     @Mod.EventHandler
     public void preInit(FMLInitializationEvent event) {
-
+        System.out.println("test");
     }
 
     @Mod.EventHandler
